@@ -1,9 +1,6 @@
 ### This is my profile of programming
 
-
-| | | |
-| :--: | :--: | :--: |
-| `default` ![default][default] | `transparent` ![transparent][transparent] | `dark` ![dark][dark] |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👋 Hi, I’m @IbrahimSohanGithub
