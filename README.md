@@ -1,13 +1,10 @@
 ### This is my profile of programming
 
-[nord]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord
-
 <!---
 IbrahimSohanGithub/IbrahimSohanGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[rose_pine]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=rose_pine
 
 - 👋 Hi, I’m @IbrahimSohanGithub
 - 👀 I’m interested in Python Programming
