@@ -1,6 +1,6 @@
 ### This is my profile of programming
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nightowl&show_icons=true)
+![Anurag's GitHub stats](https://github.com/IbrahimSohanGithub?username=Ibrahim Sohan&theme=nightowl&show_icons=true)
 
 - 👋 Hi, I’m @IbrahimSohanGithub
 - 👀 I’m interested in Python Programming
