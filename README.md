@@ -13,11 +13,4 @@ IbrahimSohanGithub/IbrahimSohanGithub is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-export const themes = {
-  default: {
-    title_color: "2f80ed",
-    icon_color: "4c71f2",
-    text_color: "434d58",
-    bg_color: "fffefe",
-    border_color: "e4e2e2",
-  },
+[rose_pine]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=rose_pine
