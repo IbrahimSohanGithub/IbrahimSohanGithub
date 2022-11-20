@@ -1,5 +1,5 @@
 ### This is my profile of programming
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimSohan)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim Sohan&theme=algolia&show_icons=true)
 
 - 👋 Hi, I’m @IbrahimSohanGithub
 - 👀 I’m interested in Python Programming
